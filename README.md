@@ -1,2 +1,0 @@
-# ML-lab
-All Ml ASSIGNMENT OF 5TH SEM
